@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This project includes:
-  backend: github api,
-  frontend: react, redux toolkit, RTKQuery, typescript, postcss, tailwind
+  - backend: github api,
+  - frontend: react, redux toolkit, RTKQuery, typescript, postcss, [tailwind](https://tailwindcss.com/docs/guides/create-react-app)
 
 ## Available Scripts
 
